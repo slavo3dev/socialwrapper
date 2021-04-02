@@ -1,5 +1,6 @@
 import { EventList } from "./eventList";
 import { EventItem } from "./eventItem";
 import { Button } from "./button";
-
-export { EventList, EventItem, Button };
+import {Layout} from "./Layout"
+import {Header} from "./header"
+export { EventList, EventItem, Button, Layout, Header};
